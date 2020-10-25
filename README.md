@@ -8,14 +8,14 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟨 Partial outage**
+## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [GeekNews](https://news.ahda.io) | 🟥 Down | [geek-news.yml](https://github.com/hada-io/upptime/commits/master/history/geek-news.yml) | <img alt="Response time graph" src="./graphs/geek-news.png" height="20"> 0ms | ![Uptime 1.28%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fgeek-news%2Fuptime.json)
-| [Write](https://write.hada.io) | 🟩 Up | [write.yml](https://github.com/hada-io/upptime/commits/master/history/write.yml) | <img alt="Response time graph" src="./graphs/write.png" height="20"> 583ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fwrite%2Fuptime.json)
-| [Hada](https://hada.io) | 🟩 Up | [hada.yml](https://github.com/hada-io/upptime/commits/master/history/hada.yml) | <img alt="Response time graph" src="./graphs/hada.png" height="20"> 561ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fhada%2Fuptime.json)
+| [GeekNews](https://news.hada.io) | 🟩 Up | [geek-news.yml](https://github.com/hada-io/upptime/commits/master/history/geek-news.yml) | <img alt="Response time graph" src="./graphs/geek-news.png" height="20"> 526ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fgeek-news%2Fuptime.json)
+| [Write](https://write.hada.io) | 🟩 Up | [write.yml](https://github.com/hada-io/upptime/commits/master/history/write.yml) | <img alt="Response time graph" src="./graphs/write.png" height="20"> 573ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fwrite%2Fuptime.json)
+| [Hada](https://hada.io) | 🟩 Up | [hada.yml](https://github.com/hada-io/upptime/commits/master/history/hada.yml) | <img alt="Response time graph" src="./graphs/hada.png" height="20"> 548ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fhada%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works
