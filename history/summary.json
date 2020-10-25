@@ -1,11 +1,11 @@
 [
   {
     "name": "GeekNews",
-    "url": "https://news.ahda.io",
+    "url": "https://news.hada.io",
     "slug": "geek-news",
-    "status": "down",
-    "uptime": "1.28",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00",
+    "time": 526
   },
   {
     "name": "Write",
@@ -13,7 +13,7 @@
     "slug": "write",
     "status": "up",
     "uptime": "100.00",
-    "time": 583
+    "time": 573
   },
   {
     "name": "Hada",
@@ -21,6 +21,6 @@
     "slug": "hada",
     "status": "up",
     "uptime": "100.00",
-    "time": 561
+    "time": 548
   }
 ]
