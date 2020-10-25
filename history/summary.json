@@ -1,26 +1,26 @@
 [
   {
-    "name": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "name": "GeekNews",
     "url": "https://news.hada.io",
     "slug": "geek-news",
     "status": "up",
     "uptime": "100.00",
-    "time": 780
+    "time": 830
   },
   {
-    "name": "Write - 오늘의 글쓰기",
+    "name": "Write",
     "url": "https://write.hada.io",
     "slug": "write",
     "status": "up",
     "uptime": "100.00",
-    "time": 556
+    "time": 552
   },
   {
-    "name": "Hada - 하다",
+    "name": "Hada",
     "url": "https://hada.io",
     "slug": "hada",
     "status": "up",
     "uptime": "100.00",
-    "time": 540
+    "time": 542
   }
 ]
