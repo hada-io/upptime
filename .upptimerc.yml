@@ -2,11 +2,11 @@ owner: hada-io
 repo: upptime
 user-agent: KojBot
 sites:
-  - name: GeekNews
+  - name: GeekNews - 개발/기술/스타트업 뉴스 서비스
     url: https://news.hada.io
-  - name: Write
+  - name: Write - 오늘의 글쓰기
     url: https://write.hada.io
-  - name: Hada
+  - name: Hada - 하다
     url: https://hada.io
 notifications:
   - type: slack
@@ -18,4 +18,4 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
   name: Upptime
   introTitle: "**Upptime** for Hada"
-  introMessage: Status for hada. powered by upptime. 
+  introMessage: Hada가 만드는 서비스들의 현재 상태입니다. GitHub Actions 를 이용한 Upptime 으로 운영되고 있습니다.
