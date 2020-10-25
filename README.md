@@ -13,7 +13,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [GeekNews](https://news.hada.io) | 🟩 Up | [geek-news.yml](https://github.com/hada-io/upptime/commits/master/history/geek-news.yml) | <img alt="Response time graph" src="./graphs/geek-news.png" height="20"> 526ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fgeek-news%2Fuptime.json)
+| [GeekNews](https://news.hada.io) | 🟩 Up | [geek-news.yml](https://github.com/hada-io/upptime/commits/master/history/geek-news.yml) | <img alt="Response time graph" src="./graphs/geek-news.png" height="20"> 703ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fgeek-news%2Fuptime.json)
 | [Write](https://write.hada.io) | 🟩 Up | [write.yml](https://github.com/hada-io/upptime/commits/master/history/write.yml) | <img alt="Response time graph" src="./graphs/write.png" height="20"> 573ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fwrite%2Fuptime.json)
 | [Hada](https://hada.io) | 🟩 Up | [hada.yml](https://github.com/hada-io/upptime/commits/master/history/hada.yml) | <img alt="Response time graph" src="./graphs/hada.png" height="20"> 548ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fhada%2Fuptime.json)
 <!--end: status pages-->
