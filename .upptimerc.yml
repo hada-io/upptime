@@ -3,7 +3,7 @@ repo: upptime
 user-agent: KojBot
 sites:
   - name: GeekNews
-    url: https://news.ahda.io
+    url: https://news.hada.io
   - name: Write
     url: https://write.hada.io
   - name: Hada
