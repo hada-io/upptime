@@ -2,11 +2,11 @@ owner: hada-io
 repo: upptime
 user-agent: KojBot
 sites:
-  - name: GeekNews
+  - name: GeekNews - https://news.hada.io
     url: https://news.hada.io
-  - name: Write
+  - name: Write - https://write.hada.io
     url: https://write.hada.io
-  - name: Hada
+  - name: Hada - https://hada.io
     url: https://hada.io
 notifications:
   - type: slack
