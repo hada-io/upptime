@@ -5,7 +5,7 @@
     "slug": "geek-news",
     "status": "up",
     "uptime": "100.00",
-    "time": 830
+    "time": 861
   },
   {
     "name": "Write",
@@ -13,7 +13,7 @@
     "slug": "write",
     "status": "up",
     "uptime": "100.00",
-    "time": 552
+    "time": 551
   },
   {
     "name": "Hada",
@@ -21,6 +21,6 @@
     "slug": "hada",
     "status": "up",
     "uptime": "100.00",
-    "time": 542
+    "time": 545
   }
 ]
