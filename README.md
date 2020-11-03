@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.hada.io): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://upptime.hada.io): <!--live status--> **🟩 All systems operational**
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
@@ -9,13 +9,11 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
 <!--start: status pages-->
-
-| URL                                                     | Status  | History                                                                                                                        | Response Time                                                                                     | Uptime                                                                                                                                                                         |
-| ------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [GeekNews - https://news.hada.io](https://news.hada.io) | 🟥 Down | [geek-news-https-news-hada-io.yml](https://github.com/hada-io/upptime/commits/master/history/geek-news-https-news-hada-io.yml) | <img alt="Response time graph" src="./graphs/geek-news-https-news-hada-io.png" height="20"> 882ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fgeek-news-https-news-hada-io%2Fuptime.json) |
-| [Write - https://write.hada.io](https://write.hada.io)  | 🟥 Down | [write-https-write-hada-io.yml](https://github.com/hada-io/upptime/commits/master/history/write-https-write-hada-io.yml)       | <img alt="Response time graph" src="./graphs/write-https-write-hada-io.png" height="20"> 488ms    | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fwrite-https-write-hada-io%2Fuptime.json)    |
-| [Hada - https://hada.io](https://hada.io)               | 🟥 Down | [hada-https-hada-io.yml](https://github.com/hada-io/upptime/commits/master/history/hada-https-hada-io.yml)                     | <img alt="Response time graph" src="./graphs/hada-https-hada-io.png" height="20"> 479ms           | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fhada-https-hada-io%2Fuptime.json)           |
-
+| URL | Status | History | Response Time | Uptime |
+| --- | ------ | ------- | ------------- | ------ |
+| [GeekNews - https://news.hada.io](https://news.hada.io) | 🟩 Up | [geek-news-https-news-hada-io.yml](https://github.com/hada-io/upptime/commits/master/history/geek-news-https-news-hada-io.yml) | <img alt="Response time graph" src="./graphs/geek-news-https-news-hada-io.png" height="20"> 901ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fgeek-news-https-news-hada-io%2Fuptime.json)
+| [Write - https://write.hada.io](https://write.hada.io) | 🟩 Up | [write-https-write-hada-io.yml](https://github.com/hada-io/upptime/commits/master/history/write-https-write-hada-io.yml) | <img alt="Response time graph" src="./graphs/write-https-write-hada-io.png" height="20"> 500ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fwrite-https-write-hada-io%2Fuptime.json)
+| [Hada - https://hada.io](https://hada.io) | 🟩 Up | [hada-https-hada-io.yml](https://github.com/hada-io/upptime/commits/master/history/hada-https-hada-io.yml) | <img alt="Response time graph" src="./graphs/hada-https-hada-io.png" height="20"> 492ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhada-io%2Fupptime%2Fmaster%2Fapi%2Fhada-https-hada-io%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works
