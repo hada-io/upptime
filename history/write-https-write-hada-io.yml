@@ -1,7 +1,7 @@
 - url: https://write.hada.io
-- status: down
+- status: up
 - code: 200
-- responseTime: 653
-- lastUpdated: 2020-11-19T06:51:30.156Z
+- responseTime: 577
+- lastUpdated: 2020-11-19T06:59:57.071Z
 - startTime: 2020-10-26T00:44:35.642Z
 - generator: Upptime <https://github.com/upptime/upptime>
