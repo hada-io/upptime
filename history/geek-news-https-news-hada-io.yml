@@ -1,7 +1,7 @@
 - url: https://news.hada.io
-- status: up
+- status: down
 - code: 200
-- responseTime: 1140
-- lastUpdated: 2020-11-18T23:19:12.288Z
+- responseTime: 1095
+- lastUpdated: 2020-11-19T06:51:27.274Z
 - startTime: 2020-10-26T00:44:33.335Z
 - generator: Upptime <https://github.com/upptime/upptime>
