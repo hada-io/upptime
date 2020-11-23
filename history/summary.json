@@ -4,23 +4,23 @@
     "url": "https://news.hada.io",
     "slug": "geek-news-https-news-hada-io",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1001
+    "uptime": "99.98%",
+    "time": 1008
   },
   {
     "name": "Write - https://write.hada.io",
     "url": "https://write.hada.io",
     "slug": "write-https-write-hada-io",
     "status": "up",
-    "uptime": "100.00",
-    "time": 572
+    "uptime": "99.98%",
+    "time": 574
   },
   {
     "name": "Hada - https://hada.io",
     "url": "https://hada.io",
     "slug": "hada-https-hada-io",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "99.98%",
     "time": 593
   }
 ]
