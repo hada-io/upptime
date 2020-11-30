@@ -5,7 +5,7 @@
     "slug": "geek-news-https-news-hada-io",
     "status": "up",
     "uptime": "99.98%",
-    "time": 1014
+    "time": 1012
   },
   {
     "name": "Write - https://write.hada.io",
@@ -13,7 +13,7 @@
     "slug": "write-https-write-hada-io",
     "status": "up",
     "uptime": "99.98%",
-    "time": 581
+    "time": 582
   },
   {
     "name": "Hada - https://hada.io",
@@ -21,6 +21,6 @@
     "slug": "hada-https-hada-io",
     "status": "up",
     "uptime": "99.98%",
-    "time": 595
+    "time": 594
   }
 ]
