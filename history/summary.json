@@ -5,7 +5,15 @@
     "slug": "geek-news-https-news-hada-io",
     "status": "up",
     "uptime": "99.98%",
-    "time": 1011
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1035,
+    "timeDay": 990,
+    "timeWeek": 1013,
+    "timeMonth": 1044,
+    "timeYear": 1035
   },
   {
     "name": "Write - https://write.hada.io",
@@ -13,7 +21,15 @@
     "slug": "write-https-write-hada-io",
     "status": "up",
     "uptime": "99.98%",
-    "time": 583
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 599,
+    "timeDay": 663,
+    "timeWeek": 622,
+    "timeMonth": 611,
+    "timeYear": 599
   },
   {
     "name": "Hada - https://hada.io",
@@ -21,6 +37,14 @@
     "slug": "hada-https-hada-io",
     "status": "up",
     "uptime": "99.98%",
-    "time": 594
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 610,
+    "timeDay": 651,
+    "timeWeek": 602,
+    "timeMonth": 626,
+    "timeYear": 610
   }
 ]
