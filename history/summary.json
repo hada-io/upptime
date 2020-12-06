@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 1038,
-    "timeDay": 1118,
-    "timeWeek": 1029,
-    "timeMonth": 1045,
-    "timeYear": 1038
+    "time": 1037,
+    "timeDay": 1001,
+    "timeWeek": 1017,
+    "timeMonth": 1046,
+    "timeYear": 1037
   },
   {
     "name": "Write - https://write.hada.io",
@@ -26,9 +26,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 603,
-    "timeDay": 655,
-    "timeWeek": 637,
-    "timeMonth": 621,
+    "timeDay": 583,
+    "timeWeek": 635,
+    "timeMonth": 622,
     "timeYear": 603
   },
   {
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 608,
-    "timeDay": 585,
-    "timeWeek": 599,
+    "time": 607,
+    "timeDay": 545,
+    "timeWeek": 587,
     "timeMonth": 631,
-    "timeYear": 608
+    "timeYear": 607
   }
 ]
