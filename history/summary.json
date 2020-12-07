@@ -2,6 +2,7 @@
   {
     "name": "GeekNews - https://news.hada.io",
     "url": "https://news.hada.io",
+    "icon": "https://favicons.githubusercontent.com/news.hada.io",
     "slug": "geek-news-https-news-hada-io",
     "status": "up",
     "uptime": "99.99%",
@@ -10,14 +11,18 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1037,
-    "timeDay": 1001,
-    "timeWeek": 1017,
-    "timeMonth": 1046,
-    "timeYear": 1037
+    "timeDay": 1006,
+    "timeWeek": 1027,
+    "timeMonth": 1044,
+    "timeYear": 1037,
+    "dailyMinutesDown": {
+      "2020-11-19": 8
+    }
   },
   {
     "name": "Write - https://write.hada.io",
     "url": "https://write.hada.io",
+    "icon": "https://favicons.githubusercontent.com/write.hada.io",
     "slug": "write-https-write-hada-io",
     "status": "up",
     "uptime": "99.99%",
@@ -26,14 +31,18 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 603,
-    "timeDay": 583,
-    "timeWeek": 635,
-    "timeMonth": 622,
-    "timeYear": 603
+    "timeDay": 625,
+    "timeWeek": 640,
+    "timeMonth": 623,
+    "timeYear": 603,
+    "dailyMinutesDown": {
+      "2020-11-19": 8
+    }
   },
   {
     "name": "Hada - https://hada.io",
     "url": "https://hada.io",
+    "icon": "https://favicons.githubusercontent.com/hada.io",
     "slug": "hada-https-hada-io",
     "status": "up",
     "uptime": "99.99%",
@@ -41,10 +50,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 607,
-    "timeDay": 545,
-    "timeWeek": 587,
-    "timeMonth": 631,
-    "timeYear": 607
+    "time": 605,
+    "timeDay": 530,
+    "timeWeek": 582,
+    "timeMonth": 629,
+    "timeYear": 605,
+    "dailyMinutesDown": {
+      "2020-11-19": 8
+    }
   }
 ]
