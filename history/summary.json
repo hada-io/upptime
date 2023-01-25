@@ -4,10 +4,10 @@
     "url": "https://news.hada.io",
     "icon": "https://icons.duckduckgo.com/ip3/news.hada.io.ico",
     "slug": "geek-news-https-news-hada-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 993,
@@ -15,17 +15,19 @@
     "timeWeek": 1095,
     "timeMonth": 998,
     "timeYear": 982,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Write - https://write.hada.io",
     "url": "https://write.hada.io",
     "icon": "https://icons.duckduckgo.com/ip3/write.hada.io.ico",
     "slug": "write-https-write-hada-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
@@ -33,16 +35,18 @@
     "timeWeek": 611,
     "timeMonth": 563,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Hada - https://hada.io",
     "url": "https://hada.io",
     "icon": "https://icons.duckduckgo.com/ip3/hada.io.ico",
     "slug": "hada-https-hada-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 606,
     "timeMonth": 561,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
