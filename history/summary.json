@@ -4,18 +4,20 @@
     "url": "https://news.hada.io",
     "icon": "https://icons.duckduckgo.com/ip3/news.hada.io.ico",
     "slug": "geek-news-https-news-hada-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
+    "time": 979,
     "timeDay": 901,
     "timeWeek": 964,
     "timeMonth": 969,
     "timeYear": 972,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   },
   {
     "name": "Write - https://write.hada.io",
