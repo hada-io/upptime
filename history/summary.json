@@ -24,9 +24,9 @@
     "url": "https://write.hada.io",
     "icon": "https://icons.duckduckgo.com/ip3/write.hada.io.ico",
     "slug": "write-https-write-hada-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +35,18 @@
     "timeWeek": 581,
     "timeMonth": 591,
     "timeYear": 572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-29": 0
+    }
   },
   {
     "name": "Hada - https://hada.io",
     "url": "https://hada.io",
     "icon": "https://icons.duckduckgo.com/ip3/hada.io.ico",
     "slug": "hada-https-hada-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +55,8 @@
     "timeWeek": 578,
     "timeMonth": 724,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-29": 0
+    }
   }
 ]
