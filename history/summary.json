@@ -24,19 +24,19 @@
     "url": "https://write.hada.io",
     "icon": "https://icons.duckduckgo.com/ip3/write.hada.io.ico",
     "slug": "write-https-write-hada-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 574,
-    "timeDay": 613,
-    "timeWeek": 581,
+    "timeDay": 604,
+    "timeWeek": 583,
     "timeMonth": 591,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2023-06-29": 0
+      "2023-06-29": 61
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://hada.io",
     "icon": "https://icons.duckduckgo.com/ip3/hada.io.ico",
     "slug": "hada-https-hada-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 579,
-    "timeDay": 514,
-    "timeWeek": 578,
+    "timeDay": 615,
+    "timeWeek": 595,
     "timeMonth": 724,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2023-06-29": 0
+      "2023-06-29": 61
     }
   }
 ]
