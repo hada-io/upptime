@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1043,
-    "timeDay": 1318,
-    "timeWeek": 1081,
-    "timeMonth": 1050,
+    "timeDay": 1242,
+    "timeWeek": 1098,
+    "timeMonth": 1060,
     "timeYear": 1048,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,19 @@
     "url": "https://write.hada.io",
     "icon": "https://icons.duckduckgo.com/ip3/write.hada.io.ico",
     "slug": "write-https-write-hada-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.03%",
-    "time": 648,
-    "timeDay": 492,
-    "timeWeek": 626,
-    "timeMonth": 684,
+    "uptimeYear": "98.29%",
+    "time": 649,
+    "timeDay": 657,
+    "timeWeek": 624,
+    "timeMonth": 680,
     "timeYear": 664,
     "dailyMinutesDown": {
+      "2024-10-01": 0,
       "2024-09-06": 23,
       "2024-08-28": 63,
       "2024-07-03": 106,
@@ -44,8 +45,7 @@
       "2024-01-02": 11,
       "2023-10-05": 50,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -53,18 +53,19 @@
     "url": "https://hada.io",
     "icon": "https://icons.duckduckgo.com/ip3/hada.io.ico",
     "slug": "hada-https-hada-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.03%",
-    "time": 628,
-    "timeDay": 620,
-    "timeWeek": 659,
-    "timeMonth": 642,
+    "uptimeYear": "98.30%",
+    "time": 629,
+    "timeDay": 770,
+    "timeWeek": 665,
+    "timeMonth": 651,
     "timeYear": 628,
     "dailyMinutesDown": {
+      "2024-10-01": 0,
       "2024-09-06": 23,
       "2024-08-28": 63,
       "2024-07-03": 106,
@@ -75,8 +76,7 @@
       "2024-01-02": 11,
       "2023-10-05": 50,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   }
 ]
